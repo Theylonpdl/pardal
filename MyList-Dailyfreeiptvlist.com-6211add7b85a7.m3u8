@@ -1,0 +1,20 @@
+#EXTM3U
+#PLAYLIST:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="s",A&E HD
+http://rv.therevenge.co:80/live/11223344/11223344/82364.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="s",ANIMAL PLANET HD
+http://rv.therevenge.co:80/live/11223344/11223344/82343.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="s",AXN HD
+http://rv.therevenge.co:80/565656/565656/82388?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="s",AXN HD
+http://rv.therevenge.co:80/live/11223344/11223344/82388.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="s",BAND SPORTS HD
+http://185.71.64.167:80/307245103371/307245103371/82352?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="s",GLOBO BRASILA HD
+http://rv.therevenge.co:80/565656/565656/82459?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="s",GLOBO RBS PORTO ALEGRE HD
+http://185.71.64.167:80/307245103371/307245103371/82454?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="s",TNT HD
+http://rv.therevenge.co:80/live/11223344/11223344/82398.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/br" group-title="s",TNT HD
+http://raostvip.com:8080/semi16/1609.sem/117835?checkedby:dailyfreeiptvlist.com
